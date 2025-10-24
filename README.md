@@ -95,7 +95,7 @@ r = win()
 print("Draw!" if r=="Draw" else f"{r} wins!")
 ```
 <hr>
-<h2>Sample Input and Output:</h2>
+<h2>Input and Output:</h2>
 
 <img width="1036" height="711" alt="image" src="https://github.com/user-attachments/assets/d25e1cde-5989-41a5-a61e-68189bc9e3e5" />
 
